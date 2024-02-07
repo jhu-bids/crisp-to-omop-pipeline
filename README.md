@@ -1,6 +1,6 @@
-# crisp-to-omop-pipeline
+# CRISP-to-OMOP-pipeline
 * Ingest state of maryland HIE data from CRISP and provide access to de-identified CRISP COVID datasets in OMOP CDM v.5.3.1 format to internal and external researcher project group with approved IRB in place.
-## requirements  -
+## Requirements  -
 * Each research group has a dedicated workspace and AAD group
 * Automate projection of OMOP database from Dev to Prod workspace and set up metastore
 * Onboarding of new research groups with databricks workspace
