@@ -1,3 +1,4 @@
 # crisp-to-omop-pipeline
-# Stephanie Hong, shong59@jh.edu 2022, initial version of state of MD COVID data from CRISP data integration into OMOP instance in databricks environment. 
+# Stephanie Hong, shong59@jh.edu 2022, 
+# Initial version of Maryland state COVID data from CRISP integration into the OMOP instance within the Databricks environment. 
 #
